@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\AccountLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\controller\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\controller\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\exceptions\\zeroaccountsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\exceptions\\zeroaccountsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\exceptions\\depositlimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\exceptions\\depositlimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\exceptions\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\exceptions\\accountnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\exceptions\\minimumbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\exceptions\\minimumbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|e:\\dotnet\\accountlibrary\\accountlibrary\\accountlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7202E8FE-C106-48AE-83E3-1D5D084E2634}|AccountLibrary\\AccountLibrary.csproj|solutionrelative:accountlibrary\\accountlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepositLimitException.cs",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\DepositLimitException.cs",
+              "RelativeDocumentMoniker": "AccountLibrary\\Exceptions\\DepositLimitException.cs",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\DepositLimitException.cs",
+              "RelativeToolTip": "AccountLibrary\\Exceptions\\DepositLimitException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:12:13.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountNotFoundException.cs",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\AccountNotFoundException.cs",
+              "RelativeDocumentMoniker": "AccountLibrary\\Exceptions\\AccountNotFoundException.cs",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\AccountNotFoundException.cs",
+              "RelativeToolTip": "AccountLibrary\\Exceptions\\AccountNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:10:41.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serialization.cs",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Services\\Serialization.cs",
+              "RelativeDocumentMoniker": "AccountLibrary\\Services\\Serialization.cs",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Services\\Serialization.cs",
+              "RelativeToolTip": "AccountLibrary\\Services\\Serialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:09:49.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Controller\\AccountManager.cs",
+              "RelativeDocumentMoniker": "AccountLibrary\\Controller\\AccountManager.cs",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Controller\\AccountManager.cs",
+              "RelativeToolTip": "AccountLibrary\\Controller\\AccountManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:08:40.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "AccountLibrary\\Models\\Account.cs",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Models\\Account.cs",
+              "RelativeToolTip": "AccountLibrary\\Models\\Account.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:07:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZeroAccountsException.cs",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\ZeroAccountsException.cs",
+              "RelativeDocumentMoniker": "AccountLibrary\\Exceptions\\ZeroAccountsException.cs",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\ZeroAccountsException.cs",
+              "RelativeToolTip": "AccountLibrary\\Exceptions\\ZeroAccountsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:11:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinimumBalanceException.cs",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\MinimumBalanceException.cs",
+              "RelativeDocumentMoniker": "AccountLibrary\\Exceptions\\MinimumBalanceException.cs",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\Exceptions\\MinimumBalanceException.cs",
+              "RelativeToolTip": "AccountLibrary\\Exceptions\\MinimumBalanceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:11:24.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountLibrary",
+              "DocumentMoniker": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\AccountLibrary.csproj",
+              "RelativeDocumentMoniker": "AccountLibrary\\AccountLibrary.csproj",
+              "ToolTip": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\AccountLibrary.csproj",
+              "RelativeToolTip": "AccountLibrary\\AccountLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T11:07:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

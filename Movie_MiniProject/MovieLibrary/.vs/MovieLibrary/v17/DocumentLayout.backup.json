@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\MovieLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\controller\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\controller\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\services\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\moviesdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\moviesdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\exceptions\\movieexistbynameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\movieexistbynameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\exceptions\\movieexistbyidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\movieexistbyidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\exceptions\\movienotfoundbynameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\movienotfoundbynameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\exceptions\\zeromoviesexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\zeromoviesexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\exceptions\\moviestorefullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\moviestorefullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\exceptions\\movienotfoundbyidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\movienotfoundbyidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\movielibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\movielibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|e:\\dotnet\\movielibrary\\movielibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1518504-0F55-431D-959B-B6ECB5D0787F}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesData.json",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\MoviesData.json",
+              "RelativeDocumentMoniker": "MovieLibrary\\MoviesData.json",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\MoviesData.json",
+              "RelativeToolTip": "MovieLibrary\\MoviesData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T13:32:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieExistByNameException.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieExistByNameException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieExistByNameException.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieExistByNameException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieExistByNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:18:43.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieExistByIdException.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieExistByIdException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieExistByIdException.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieExistByIdException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieExistByIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:18:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieNotFoundByNameException.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieNotFoundByNameException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieNotFoundByNameException.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieNotFoundByNameException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieNotFoundByNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:19:21.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serialization.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Services\\Serialization.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Services\\Serialization.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Services\\Serialization.cs",
+              "RelativeToolTip": "MovieLibrary\\Services\\Serialization.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:18:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieManager.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Controller\\MovieManager.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Controller\\MovieManager.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Controller\\MovieManager.cs",
+              "RelativeToolTip": "MovieLibrary\\Controller\\MovieManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:17:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZeroMoviesException.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\ZeroMoviesException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\ZeroMoviesException.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\ZeroMoviesException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\ZeroMoviesException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:20:19.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieStoreFullException.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieStoreFullException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieStoreFullException.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieStoreFullException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieStoreFullException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:20:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Models\\Movie.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieLibrary\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:18:01.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieNotFoundByIdException.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieNotFoundByIdException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieNotFoundByIdException.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Exceptions\\MovieNotFoundByIdException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieNotFoundByIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:19:06.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieLibrary",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj",
+              "RelativeDocumentMoniker": "MovieLibrary\\MovieLibrary.csproj",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\MovieLibrary.csproj",
+              "RelativeToolTip": "MovieLibrary\\MovieLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T12:09:59.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Class1.cs",
+              "ToolTip": "E:\\DotNet\\MovieLibrary\\MovieLibrary\\Class1.cs",
+              "RelativeToolTip": "MovieLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:09:48.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
