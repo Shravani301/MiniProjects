@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.AssemblyInfo.cs
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.sourcelink.json
+E:\DotNet\Monocept_Projects\ContactApp\bin\Debug\net8.0\ContactApp.exe
+E:\DotNet\Monocept_Projects\ContactApp\bin\Debug\net8.0\ContactApp.deps.json
+E:\DotNet\Monocept_Projects\ContactApp\bin\Debug\net8.0\ContactApp.runtimeconfig.json
+E:\DotNet\Monocept_Projects\ContactApp\bin\Debug\net8.0\ContactApp.dll
+E:\DotNet\Monocept_Projects\ContactApp\bin\Debug\net8.0\ContactApp.pdb
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.dll
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\refint\ContactApp.dll
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.pdb
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ContactApp.genruntimeconfig.cache
+E:\DotNet\Monocept_Projects\ContactApp\obj\Debug\net8.0\ref\ContactApp.dll
